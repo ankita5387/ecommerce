@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-27T12:13:35 IST" name="Default suite" finished-at="2023-10-27T12:14:15 IST" duration-ms="40209">
+    <groups>
+    </groups>
+    <test started-at="2023-10-27T12:13:35 IST" name="Default test" finished-at="2023-10-27T12:14:15 IST" duration-ms="40209">
+      <class name="module1.checkorder">
+        <test-method is-config="true" signature="setup()[pri:0, instance:module1.checkorder@1de76cc7]" started-at="2023-10-27T12:13:35 IST" name="setup" finished-at="2023-10-27T12:14:09 IST" duration-ms="34218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkdropdown()[pri:0, instance:module1.checkorder@1de76cc7]" started-at="2023-10-27T12:14:09 IST" name="checkdropdown" finished-at="2023-10-27T12:14:15 IST" duration-ms="5957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdropdown -->
+      </class> <!-- module1.checkorder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
